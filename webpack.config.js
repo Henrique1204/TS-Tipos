@@ -2,7 +2,7 @@ const path = require('path'); // eslint-disable-line
 
 module.exports = {
   mode: 'development',
-  entry: './src/Configurando-webpack/index.ts',
+  entry: './src/Exercicio/index.ts',
   module: {
     rules: [
       {
